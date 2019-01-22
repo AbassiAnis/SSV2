@@ -1,0 +1,14 @@
+{
+"companyName": "SnS",
+"productName": "SoicAndSot",
+"dataUrl": "SoicSot.data.unityweb",
+"asmCodeUrl": "SoicSot.asm.code.unityweb",
+"asmMemoryUrl": "SoicSot.asm.memory.unityweb",
+"asmFrameworkUrl": "SoicSot.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "SoicSot.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
